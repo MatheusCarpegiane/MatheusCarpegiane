@@ -1,5 +1,5 @@
-## 👨‍💻 Welcome!
-**`Desenvolvedor FullStack`**
+## Welcome.
+**`Businessperson`**
 <h1 align="center">Matheus Carpegiane Leite</h1>
 
 <p align="center">
