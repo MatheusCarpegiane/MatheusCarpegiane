@@ -3,7 +3,7 @@
 <h1 align="center">Matheus Carpegiane Leite</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Future Cybersecurity & AI Specialist • Indie Hacker 💼</b>  
+  <b>Founder @ Voult Group | AI & Software Engineering | Building intelligent systems</b>  
 </p>
 
 <p align="center">
@@ -17,23 +17,21 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```yaml
-name: Matheus Carpegiane Leite
-focus: ["Full-Stack", "Cybersecurity", "AI"]
+name: Matheus Carpegiane
+focus: ["Voult Group", "AI"]
 location: "Brazil 🇧🇷"
-mission: "Master code, and break limits"
-currently_learning: ["Python", "Linux", "Algorithms", "System Design"]
-ideology: "Discipline over motivation"
+mission: "Multi-million dollar company with multiple AI agents."
+currently_learning: ["AI"]
+ideology: "Capitalism"
 ```
 ```yaml
-🤝 Let’s Connect
-📫 Email: matheuscarpegiane.dev@email.com
-🔗 LinkedIn: [[Matheus Carpegiane]](https://www.linkedin.com/in/matheus-carpegiane-18294933b/)
-🔒 Discord: carpegiane
-🐦 X (Twitter): @dev_carpegiane
-🧠 Site pessoal: em breve (quando merecer ter um)
 ```
+---
 
+### Pay attention.
+```yaml
+Your competition is already reading our contract.
 
