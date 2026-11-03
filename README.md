@@ -6,15 +6,6 @@
   <b>Founder @ Voult Group | AI & Software Engineering | Building intelligent systems</b>  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheuscarpegiane&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/matheuscarpegiane?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/badge/Code-Disciplined-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Extreme-critical?style=flat-square" />
-</p>
-
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscarpegiane&show_icons=true&theme=radical" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarpegiane&layout=compact&theme=radical" /> </div>
-
 ---
 
 ### About Me
